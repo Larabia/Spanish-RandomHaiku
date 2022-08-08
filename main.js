@@ -26,8 +26,6 @@ function getMaxNumber(array){
 function getRandomIndex(maxNum){
     let randomIndex = Math.floor(Math.random() * maxNum); 
     return randomIndex;
-<<<<<<< HEAD
+
 }
-=======
-}
->>>>>>> 8e2250a773a260f999f5b1fdc10fd2f028a46124
+
