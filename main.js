@@ -4,6 +4,7 @@ const firstLine = ['Nadie que vaya','«Ven, ven», le dije,','Noche corta de ver
 const secondLine = ['por este camino.','pero la luciérnaga','entre los juncos, fluyendo,','los pajaritos esperan a su madre:','el gorrión','las luciérnagas se apagan','Sus hojas y las marchitas','Que observan','Cavan una fosa','Se despierta y mira','puestas a secar,'];
 const thirdLine = ['Crepúsculo de otoño','tse fue volando','la espuma de los cangrejos.','la lluvia de otoño','por la terraza de madera','nada existe','Flotando en el agua','El arco iris.','Detrás de las camelias','la caja de las luciérnagas','solo un sendero.'];
 
+
 /*---------------------- Main ------------------------*/
 
 //prints the three lines of a random haiku
@@ -25,4 +26,8 @@ function getMaxNumber(array){
 function getRandomIndex(maxNum){
     let randomIndex = Math.floor(Math.random() * maxNum); 
     return randomIndex;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 8e2250a773a260f999f5b1fdc10fd2f028a46124
