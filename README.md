@@ -23,7 +23,7 @@ Built with 🛠️
 
 Run this project 📌
 
-To run this proyect you can fork it ande open de conteining folder on your favorite ide. 
+To run this proyect you can fork it and open de conteining folder on your favorite ide. 
 You'll need to instal *NodeJS* if you don't have it yet!
 just run 'node main.js' in your terminal and be amaze by your haiku!
 Now you can reflect on the haiku wisdome.
